@@ -1,0 +1,16 @@
+{
+    "UI": {
+        "BackgroundColor": [36, 36, 36, 255],
+        "PastColor": [255, 255, 255, 255],
+        "FutureColor": [0, 0, 0, 255],
+        "PointerColor": [255, 255, 255, 255],
+        "GeneralAccentColor": [255, 255, 255, 255]
+    },
+    "DefaultSongSettings": {
+        "DeathType": "score",
+        "FollowType": "untilNext",
+        "Speed": 1.0,
+        "Punctuation": "all",
+        "Newlines": false
+    }
+}

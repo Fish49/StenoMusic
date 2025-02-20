@@ -1,0 +1,11 @@
+{
+    "Name": "Fly Away",
+    "Artists": ["TheFatRat"],
+    "SongPath": "flyAway.mp3",
+    "SongFormat": "mp3",
+    "LyricsPath": "flyAway.lrc",
+    "LyricsFormat": "lrc",
+    "ImagePath": "flyAway.jpg",
+    "ImageFormat": "jpg",
+    "Settings": "default"
+}
